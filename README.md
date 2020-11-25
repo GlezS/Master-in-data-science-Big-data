@@ -2,6 +2,6 @@
 
 Hello,
 
-Here are the book the teacher Thomas Verdebout recomend for STAT-F600-0-202021.
+Here are the books the teacher Thomas Verdebout recomend for STAT-F600-0-202021.
 
 Enjoy.
