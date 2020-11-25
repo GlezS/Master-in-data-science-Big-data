@@ -1,7 +1,7 @@
-# Master-in-data-science-Big-data
+# Master in data science Big-data - STAT-F600-0-202021
 
 Hello,
 
-Here are the book the teacher recomend for STAT-F600-0-202021.
+Here are the book the teacher Thomas Verdebout recomend for STAT-F600-0-202021.
 
 Enjoy.
